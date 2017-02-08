@@ -22,4 +22,4 @@ Tasks – Part 1
 
 3) Compare your results to an appropriate baseline
 
-Note: This was the assignment 4 for the Machine Learning and Data Mining course at The University of Koblenz-Landau. http://web.west.uni-koblenz.de/en/studying/courses/ws1516/machine-learning-and-data-mining
+Note: This was the assignment 4 for the Machine Learning and Data Mining course at The University of Koblenz-Landau. http://west.uni-koblenz.de/en/studying/courses/ws1516/machine-learning-and-data-mining
